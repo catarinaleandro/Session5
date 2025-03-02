@@ -11,5 +11,5 @@ s = 0
 i = 1
 while i <= 10:
     s += i
-    i += 1 # this will break the loop!!
+    i += 1 # this will break the loop!!!
 print("sum using while is also", s)
